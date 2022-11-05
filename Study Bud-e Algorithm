@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T00:22:26.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="awbKvA_NWTHPDCuyxSG0" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T00:54:27.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0WjbiP_LZSe0DrlHGYjs" version="20.4.2" type="github">
   <diagram id="7famLz2aBRdjRbd7BMx2" name="Page-1">
     <mxGraphModel dx="445" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,14 @@
         <mxCell id="s4Azrzq1VXV1FEUeWGk1-20" value="&lt;span style=&quot;&quot;&gt;Confirmation Email &lt;br&gt;sent to new &lt;br&gt;subscriber&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
           <mxGeometry x="90" y="540" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s4Azrzq1VXV1FEUeWGk1-22" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="600" width="120" height="50" as="geometry" />
+        <mxCell id="s4Azrzq1VXV1FEUeWGk1-24" value="Standard and &lt;br&gt;Contextual questions&lt;br&gt;and answers retrieved &lt;br&gt;from&amp;nbsp;database" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="610" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="s4Azrzq1VXV1FEUeWGk1-23" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.loop" vertex="1" parent="1">
-          <mxGeometry x="90" y="610" width="120" height="50" as="geometry" />
+        <mxCell id="s4Azrzq1VXV1FEUeWGk1-25" value="2 Questions&lt;br&gt;and answers emailed&lt;br&gt;&amp;nbsp;to subscribers daily" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4Azrzq1VXV1FEUeWGk1-26" value="STOP" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
